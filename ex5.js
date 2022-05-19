@@ -4,7 +4,7 @@ var userInput = parseInt(prompt("Digite um numero"));
 
 var resultado = 0;
 
-for(var i = 1; i <= userInput; i++) {
+for (var i = 1; i <= userInput; i++) {
     resultado += i
 }
 

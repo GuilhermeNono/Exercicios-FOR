@@ -10,7 +10,7 @@ var resultado = 0;
 
 for (var i = 0; i <= 10; i++) {
     resultado = tabuada * i;
-    console.log(tabuada + " x " +  i + " = " + resultado);
+    console.log(tabuada + " x " + i + " = " + resultado);
 }
 
 
